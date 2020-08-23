@@ -1,0 +1,7 @@
+name: HOCON
+asset: json
+parent: text
+match:
+  extension:
+    equals:
+      - .conf
